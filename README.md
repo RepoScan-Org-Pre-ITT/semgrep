@@ -13,7 +13,7 @@
 </h2>
 <p align="center">
   <a href="https://formulae.brew.sh/formula/semgrep">
-    <img src="https://img.shields.io/homebrew/v/semgrep?style=flat-square" alt="Homebrew" />
+    <img src="https://img.shields.io/homebrew/v/semgrep?style=flat-square" alt="Homebrew" />d
   </a>
   <a href="https://pypi.org/project/semgrep/">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/semgrep?style=flat-square&color=blue">
